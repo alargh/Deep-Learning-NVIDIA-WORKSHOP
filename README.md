@@ -40,22 +40,5 @@ For my final assessment, I trained a deep learning model to classify images of f
 - Successfully classified fruit images with high accuracy
 
 ## Repository Contents
-- **assessment.pdf** – My deep learning model assessment submission.
+- **07_assessment.ipynb** – My deep learning model assessment submission.
 - **certificate.pdf** – Official NVIDIA DLI certificate recognizing my completion of the course.
-
-## Next Steps
-Having completed this course, I plan to explore:
-- **Advanced Deep Learning Topics:**
-  - Image Segmentation
-  - Time-Series Analysis with Recurrent Neural Networks (RNNs)
-  - Transformer-Based NLP Applications
-- **More Projects on Kaggle:**
-  - Experimenting with different datasets
-  - Fine-tuning models for real-world applications
-
-## Contact
-If you have any questions or would like to discuss deep learning concepts, feel free to reach out!
-
----
-Thank you for checking out my repository!
-
