@@ -40,5 +40,5 @@ For my final assessment, I trained a deep learning model to classify images of f
 - Successfully classified fruit images with high accuracy
 
 ## Repository Contents
-- **07_assessment.ipynb** – My deep learning model assessment submission.
+- **assessment.ipynb** – My deep learning model assessment submission.
 - **certificate.pdf** – Official NVIDIA DLI certificate recognizing my completion of the course.
